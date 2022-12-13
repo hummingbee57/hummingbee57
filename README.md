@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hummingbee57
 - 👀 I’m interested in game development, java, web development, and robotics. 
-- 🌱 I'm currently learning something, probable=y
+- 🌱 I'm currently learning something, probably
 - 💞️ I’m looking to collaborate on web development projects, python applications, and homework (meaning you do my homework).
 - I started coding when I was eight years old, and the first text-based language I learned was Python!
 
